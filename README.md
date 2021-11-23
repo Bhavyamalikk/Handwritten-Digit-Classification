@@ -21,6 +21,6 @@
  
  
 ### END RESULTS:
-1. Accuracy and loss after implementing simple neural : 0.9249, 0.2669
+1. Accuracy and loss after implementing simple neural network: 0.9249, 0.2669
 2. Accuracy and loss after adding one more hidden layer : 0.9768, 0.1098
 3. Accuracy and loss after adding the 2nd hidden layer : 0.9767, 0.1132
