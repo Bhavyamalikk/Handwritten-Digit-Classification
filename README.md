@@ -10,10 +10,17 @@
  
  ### OUTLINE:
  On the given dataset, the following has been done:
- 1. Splitting the data into train and test.
- 2. Feature Scaling and Flattening.
- 3. Building a sequencial ANN model.
- 4. Creating a confusion matrix.
- 5. Making of a heatmap to check for the correctly predicted values.
- 6. Adding more hidden layers to improve the accuracy.
+ 1. Importing the libraries.
+ 2. Loading the data.
+ 3. Splitting the data into train and test.
+ 4. Feature Scaling and Flattening.
+ 5. Building a sequencial ANN model.
+ 6. Creating a confusion matrix.
+ 7. Making of a heatmap to check for the correctly predicted values.
+ 8. Adding more hidden layers to improve the accuracy.
  
+ 
+### END RESULTS:
+1. Accuracy and loss after implementing simple neural : 0.9249, 0.2669
+2. Accuracy and loss after adding one more hidden layer : 0.9768, 0.1098
+3. Accuracy and loss after adding the 2nd hidden layer : 0.9767, 0.1132
